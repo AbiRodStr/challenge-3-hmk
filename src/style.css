@@ -85,3 +85,15 @@ p {
 footer {
   text-align: center;
 }
+.contact {
+  padding: 20px;
+  margin-top: 50px;
+}
+@media (min-width: 500px) {
+  h1 {
+    font-size: 45px;
+  }
+  .card {
+    display: block;
+  }
+}
